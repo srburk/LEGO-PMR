@@ -7,8 +7,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Robo_Programs" Type="Folder">
+		<Item Name="CalibrateGyro.vi" Type="VI" URL="../Robo_Programs/CalibrateGyro.vi"/>
 		<Item Name="Encoder-Calibration.vi" Type="VI" URL="../Robo_Programs/Encoder-Calibration.vi"/>
 		<Item Name="GryoMoveForward.vi" Type="VI" URL="../Robo_Programs/GryoMoveForward.vi"/>
+		<Item Name="GyroTurn.vi" Type="VI" URL="../Robo_Programs/GyroTurn.vi"/>
 		<Item Name="Move Forward.vi" Type="VI" URL="../Robo_Programs/Move Forward.vi"/>
 		<Item Name="Move-For-Distance-Subtask1.vi" Type="VI" URL="../Robo_Programs/Move-For-Distance-Subtask1.vi"/>
 		<Item Name="Turn-Degrees-Subtask1.vi" Type="VI" URL="../Robo_Programs/Turn-Degrees-Subtask1.vi"/>
